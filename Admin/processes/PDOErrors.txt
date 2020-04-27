@@ -1,0 +1,24 @@
+DateTime: Sat, 30-Mar-2019 02:03 PM
+
+===start/Applications/XAMPP/xamppfiles/htdocs/dandy/Admin/functions.php: line 580: 
+
+ (select * from admin order by user_id DESC) 
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'order clause'===end
+
+DateTime: Sat, 30-Mar-2019 02:03 PM
+
+===start/Applications/XAMPP/xamppfiles/htdocs/dandy/Admin/processes/add_user_process.php: line 51: 
+
+ (insert into admin set user_id= :user_id, username= :username, password= :password, email= :email, role= :role, branch_name= :branch_name), (U000001|NANLE2|PRECIOUS|SOFTWAREDEV.MYAREA@GMAIL.COM|ADMINISTRATOR|Nanleinc Kaduna) 
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list'===end
+
+DateTime: Sat, 30-Mar-2019 02:36 PM
+
+===start/Applications/XAMPP/xamppfiles/htdocs/dandy/Admin/functions.php: line 596: 
+
+ (select * from sales order by sale_id DESC) 
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sale_id' in 'order clause'===end
+

@@ -1,0 +1,16 @@
+DateTime: Thu, 07-Dec-2017 12:42 AM
+
+===startC:\xampp\htdocs\dandy\processes\contact_process.php: line 18: 
+
+ (insert into contact-us set email= :email, order_ref= :order_ref, message= :message), (paulnanle611@gmail.com|2fsfs|Nanle is testing) 
+
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-us set email= 'paulnanle611@gmail.com', order_ref= '2fsfs', message= 'Nanle is ' at line 1===end
+
+DateTime: Thu, 07-Dec-2017 12:45 AM
+
+===startC:\xampp\htdocs\dandy\processes\contact_process.php: line 18: 
+
+ (insert into contact-us set email= :email, mobile_num= :mobile_num, order_ref= :order_ref, message= :message), (paulnanle611@gmail.com|07065589911|Nanle23983|Nanle is testing) 
+
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-us set email= 'paulnanle611@gmail.com', mobile_num= '07065589911', order_ref= '' at line 1===end
+

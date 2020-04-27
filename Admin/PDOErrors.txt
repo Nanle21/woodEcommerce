@@ -1,0 +1,64 @@
+DateTime: Sat, 30-Mar-2019 02:32 PM
+
+===start/Applications/XAMPP/xamppfiles/htdocs/dandy/Admin/view_sales.php: line 17: 
+
+ (select * from sales where(sale_id='') ) 
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sale_id' in 'where clause'===end
+
+DateTime: Sat, 30-Mar-2019 02:32 PM
+
+===start/Applications/XAMPP/xamppfiles/htdocs/dandy/Admin/view_sales.php: line 17: 
+
+ (select * from sales where(sale_id='') ) 
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sale_id' in 'where clause'===end
+
+DateTime: Sat, 30-Mar-2019 02:32 PM
+
+===start/Applications/XAMPP/xamppfiles/htdocs/dandy/Admin/view_sales.php: line 17: 
+
+ (select * from sales where(sale_id='') ) 
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sale_id' in 'where clause'===end
+
+DateTime: Sat, 30-Mar-2019 02:32 PM
+
+===start/Applications/XAMPP/xamppfiles/htdocs/dandy/Admin/view_sales.php: line 17: 
+
+ (select * from sales where(sale_id='') ) 
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sale_id' in 'where clause'===end
+
+DateTime: Sat, 30-Mar-2019 02:32 PM
+
+===start/Applications/XAMPP/xamppfiles/htdocs/dandy/Admin/view_sales.php: line 17: 
+
+ (select * from sales where(sale_id='') ) 
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sale_id' in 'where clause'===end
+
+DateTime: Sat, 30-Mar-2019 02:33 PM
+
+===start/Applications/XAMPP/xamppfiles/htdocs/dandy/Admin/view_sales.php: line 17: 
+
+ (select * from sales where(sale_id='') ) 
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sale_id' in 'where clause'===end
+
+DateTime: Sat, 30-Mar-2019 02:33 PM
+
+===start/Applications/XAMPP/xamppfiles/htdocs/dandy/Admin/view_sales.php: line 17: 
+
+ (select * from sales where(sale_id='') ) 
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sale_id' in 'where clause'===end
+
+DateTime: Sat, 30-Mar-2019 02:35 PM
+
+===start/Applications/XAMPP/xamppfiles/htdocs/dandy/Admin/view_sales.php: line 17: 
+
+ (select * from sales where(sale_id='') ) 
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sale_id' in 'where clause'===end
+

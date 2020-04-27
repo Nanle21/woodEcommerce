@@ -1,0 +1,10 @@
+<?php
+	ob_start();
+session_start();
+if(!empty($_SESSION['current_user']))
+{
+$_SESSION['current_user']='';
+session_destroy();
+}
+header("Location:login.php");
+?>

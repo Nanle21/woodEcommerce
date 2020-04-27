@@ -1,0 +1,1 @@
+ | 2019-03-30 13:42:57SQLSTATE[HY000] [1049] Unknown database 'dandywood'
